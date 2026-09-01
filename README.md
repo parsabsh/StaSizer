@@ -1,4 +1,10 @@
-# VLSI Static Timing Analysis
+# StaSizer: Static Timing Analysis (STA) and Logical-Effort-Guided Gate Sizing for Combinational VLSI Circuits
+
+## Demo
+
+https://github.com/user-attachments/assets/b027b5c4-6c17-4b7f-8a2f-934b8cf1b7a2
+
+## Introduction
 
 For installation, analyzer commands, viewer controls, plotting, tests, and
 troubleshooting, see [HELP.md](HELP.md).
